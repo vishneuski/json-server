@@ -11,10 +11,9 @@
     "weight": "90",
     "favouriteFood": "pizza",
     "pet": {
-      "dog": {
+        "type": "dog",
         "name": "Lucky",
         "age": "3"
-      }
     }
   },
   {
@@ -28,10 +27,9 @@
     "weight": "85",
     "favouriteFood": "burger",
     "pet": {
-      "cat": {
+        "type": "cat",
         "name": "Kiss",
         "age": "5"
-      }
     }
   },
   {
@@ -45,10 +43,9 @@
     "weight": "60",
     "favouriteFood": "chicken",
     "pet": {
-      "cat": {
+        "type": "cat",
         "name": "Funny",
         "age": "1"
-      }
     }
   },
   {
@@ -62,10 +59,9 @@
     "weight": "65",
     "favouriteFood": "potato",
     "pet": {
-      "dog": {
+        "type": "dog",
         "name": "Chunky",
         "age": "2"
-      }
     }
   }
 ],
