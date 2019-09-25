@@ -1,0 +1,75 @@
+{
+  "posts": [
+  {
+    "id": "1",
+    "name": "Alex",
+    "surName": "Ivanov",
+    "age": "30",
+    "gender": "male",
+    "isMarried": "true",
+    "height": "180",
+    "weight": "90",
+    "favouriteFood": "pizza",
+    "pet": {
+      "dog": {
+        "name": "Lucky",
+        "age": "3"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "name": "Ivan",
+    "surName": "Petrov",
+    "age": "25",
+    "gender": "male",
+    "isMarried": "false",
+    "height": "170",
+    "weight": "85",
+    "favouriteFood": "burger",
+    "pet": {
+      "cat": {
+        "name": "Kiss",
+        "age": "5"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "name": "Kate",
+    "surName": "Smirnova",
+    "age": "23",
+    "gender": "female",
+    "isMarried": "false",
+    "height": "172",
+    "weight": "60",
+    "favouriteFood": "chicken",
+    "pet": {
+      "cat": {
+        "name": "Funny",
+        "age": "1"
+      }
+    }
+  },
+  {
+    "id": "4",
+    "name": "Liza",
+    "surName": "Sidorova",
+    "age": "20",
+    "gender": "female",
+    "isMarried": "true",
+    "height": "175",
+    "weight": "65",
+    "favouriteFood": "potato",
+    "pet": {
+      "dog": {
+        "name": "Chunky",
+        "age": "2"
+      }
+    }
+  }
+],
+      "profile": {
+    "name": "typicode"
+  }
+}
